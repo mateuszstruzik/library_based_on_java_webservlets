@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<accounts>
+	<account>
+		<username>piotr</username>
+		<password>piotrus</password>
+		<name>Piotr</name>
+		<surname>Kowalski</surname>
+		<old>34</old>
+		<adress>Olesnica, Klonowa 45</adress>
+		<lend_books howmuch="2">
+			<book>3</book>
+			<book>4</book>
+		</lend_books>
+	</account>
+	<account>
+		<username>pawel</username>
+		<password>pawelek</password>
+		<name>Pawel</name>
+		<surname>Nowak</surname>
+		<old>23</old>
+		<adress>Wroclaw, Wichrowa 4</adress>
+		<lend_books howmuch="2">
+			<book>3</book>
+			<book>4</book>
+		</lend_books>
+	</account>
+
+
+</accounts>
